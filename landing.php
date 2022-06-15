@@ -76,7 +76,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzo1.jpg" alt="buzo hombre 1" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH1.jpg" alt="buzo hombre 1" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -108,7 +108,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzo2.jpg" alt="buzo hombre 2" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH2.jpg" alt="buzo hombre 2" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -140,7 +140,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzo3.jpg" alt="buzo hombre 3" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH3.jpg" alt="buzo hombre 3" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -176,7 +176,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzo4.jpg" alt="buzo hombre 4" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH4.jpg" alt="buzo hombre 4" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -208,7 +208,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzo5.jpg" alt="buzo hombre 5" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH5.jpg" alt="buzo hombre 5" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -240,7 +240,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzo6.jpg" alt="hombre buzo 6" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH6.jpg" alt="hombre buzo 6" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
