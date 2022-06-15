@@ -19,19 +19,19 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>Surreal</strong> <span>Buzos</span></a>
+						<a href="index.php" class="logo"><strong>Surreal</strong> <span>Buzos</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
 
 				<!-- Menu -->
-					<nav id="menu">
+				<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">Inicio</a></li>
-							<li><a href="landing.html">Catalogo</a></li>
-							<li><a href="generic.html">Informacion</a></li>
-							<li><a href="elements.html">Contacto</a></li>
+							<li><a href="index.php">Inicio</a></li>
+							<li><a href="landing.php">Catalogo</a></li>
+							<li><a href="generic.php">Informacion</a></li>
+							<li><a href="elements.php">Contacto</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">Crear cuenta</a></li>
@@ -62,21 +62,21 @@
 							<form action="registrar.php" method= "POST" class="formulario_compra">
 								<div class="fields">
 									<div class="field half">
-										<label for="nombre">Nombre y apellido</label>
-										<input type="text" name="nombre" id="nombre" />
+										<label for="name">Nombre y apellido</label>
+										<input type="text" name="name" id="name" />
 									</div>
 									<div class="field half">
 										<label for="email">Email</label>
-										<input type="email" name="email" id="email" />
+										<input type="text" name="email" id="email" />
 									</div>
 									<div class="field">
-										<label for="producto">Producto</label>
-										<textarea name="producto" id="producto" rows="6"></textarea>
+										<label for="message">Mensaje</label>
+										<textarea name="message" id="message" rows="6"></textarea>
 									</div>
 								</div>
 								<ul class="actions">
-									<li> <input type="submit" name="Enviar" value="Enviar mensaje" class="primary" /></li>
-									<li> <input type="reset" name="Borrar" value="Borrar todo" /></li>
+									<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
+									<li><input type="reset" value="Borrar todo" /></li>
 								</ul>
 							</form>
 						</section>
@@ -85,14 +85,14 @@
 								<div class="contact-method">
 									<span class="icon solid alt fa-envelope"></span>
 									<h3>Email</h3>
-									<a href="#">Nuestro E-mail</a>
+									<a href="#">nuestro mail</a>
 								</div>
 							</section>
 								<section>
 									<div class="contact-method">
 										<span class="icon solid alt fa-phone"></span>
 										<h3>Telefono</h3>
-										<span>(000) 000-0000 x12387</span>
+										<span>0341 522-3000</span>
 									</div>
 								</section>
 								<section>
