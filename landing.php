@@ -20,19 +20,19 @@
 				<!-- Header -->
 				<!-- Note: The "styleN" class below should match that of the banner element. -->
 					<header id="header" class="alt style2">
-						<a href="index.php" class="logo"><strong>Surreal</strong> <span></span></a>
+						<a href="index.html" class="logo"><strong>Surreal</strong> <span></span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
 
 				<!-- Menu -->
-				<nav id="menu">
+					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.php">Inicio</a></li>
-							<li><a href="landing.php">Catalogo</a></li>
-							<li><a href="generic.php">Informacion</a></li>
-							<li><a href="elements.php">Contacto</a></li>
+							<li><a href="index.html">Inicio</a></li>
+							<li><a href="landing.html">Catalogo</a></li>
+							<li><a href="generic.html">Informacion</a></li>
+							<li><a href="elements.html">Contacto</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">Crear cuenta</a></li>
@@ -69,14 +69,14 @@
 											</header>
 											<p>$8.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzoH1.jpg" alt="buzo hombre 1" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH1.jpg" alt="buzo hombre 1" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -85,14 +85,14 @@
 											</header>
 											<p>$6.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzo2.jpg" alt="buzo mujer 2" data-position="25% 25%" />
+										<img src="c://xampp//htdocs//proyectofinal//images//mujer//buzo2.jpg" alt="buzo mujer 2" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -101,14 +101,14 @@
 											</header>
 											<p>$6.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzoH2.jpg" alt="buzo hombre 2" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH2.jpg" alt="buzo hombre 2" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -117,14 +117,14 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzo3.jpg" alt="buzo mujer 3" data-position="25% 25%" />
+										<img src="c://xampp//htdocs//proyectofinal//images//mujer//buzo3.jpg" alt="buzo mujer 3" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -133,14 +133,14 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzoH3.jpg" alt="buzo hombre 3" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH3.jpg" alt="buzo hombre 3" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -149,14 +149,18 @@
 											</header>
 											<p>$8.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="spotlights">
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzo4.jpg" alt="buzo mujer 4" data-position="center center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//mujer//buzo4.jpg" alt="buzo mujer 4" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -165,14 +169,14 @@
 											</header>
 											<p>$6.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzoH4.jpg" alt="buzo hombre 4" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH4.jpg" alt="buzo hombre 4" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -181,14 +185,14 @@
 											</header>
 											<p>$9.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzo5.jpg" alt="buzo mujer 5" data-position="25% 25%" />
+										<img src="c://xampp//htdocs//proyectofinal//images//mujer//buzo5.jpg" alt="buzo mujer 5" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -197,14 +201,14 @@
 											</header>
 											<p>$7.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzoH5.jpg" alt="buzo hombre 5" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH5.jpg" alt="buzo hombre 5" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -213,14 +217,14 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzo6.jpg" alt="buzo hombre 6" data-position="25% 25%" />
+										<img src="c://xampp//htdocs//proyectofinal//images//mujer//buzo6.jpg" alt="buzo hombre 6" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -229,14 +233,14 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
 								</section>
 								<section>
 									<a class="image">
-										<img src="c://xampp//htdocs//proyectofinal//images//buzoH6.jpg" alt="hombre buzo 6" data-position="top center" />
+										<img src="c://xampp//htdocs//proyectofinal//images//hombre//buzoH6.jpg" alt="hombre buzo 6" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -245,7 +249,7 @@
 											</header>
 											<p>$9.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="elements.html" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -254,57 +258,57 @@
 						
 						
 						<!-- Contact -->
-							<section id="contact">
-								<div class="inner">
-									<section>
-										<form action="registrar.php" method= "POST" class="formulario_compra">
-											<div class="fields">
-												<div class="field half">
-													<label for="name">Nombre y apellido</label>
-													<input type="text" name="name" id="name" />
-												</div>
-												<div class="field half">
-													<label for="email">Email</label>
-													<input type="text" name="email" id="email" />
-												</div>
-												<div class="field">
-													<label for="message">Mensaje</label>
-													<textarea name="message" id="message" rows="6"></textarea>
-												</div>
+						<section id="contact">
+							<div class="inner">
+								<section>
+									<form action="registrar.php" method= "POST" class="formulario_compra">
+										<div class="fields">
+											<div class="field half">
+												<label for="nombre">Nombre y apellido</label>
+												<input type="text" name="nombre" id="nombre" />
 											</div>
-											<ul class="actions">
-												<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
-												<li><input type="reset" value="Borrar todo" /></li>
-											</ul>
-										</form>
-									</section>
-									<section class="split">
-										<section>
-											<div class="contact-method">
-												<span class="icon solid alt fa-envelope"></span>
-												<h3>Email</h3>
-												<a href="#">nuestro mail</a>
+											<div class="field half">
+												<label for="email">Email</label>
+												<input type="email" name="email" id="email" />
 											</div>
-										</section>
-											<section>
-												<div class="contact-method">
-													<span class="icon solid alt fa-phone"></span>
-													<h3>Telefono</h3>
-													<span>0341 522-3000</span>
-												</div>
-											</section>
-											<section>
-												<div class="contact-method">
-													<span class="icon solid alt fa-home"></span>
-													<h3>Direccion</h3>
-													<span>Paraguay 1950<br />
-													Universidad Austral, Rosario, Santa Fe<br />
-													Argentina</span>
-												</div>
-											</section>
-										</section>
+											<div class="field">
+												<label for="producto">Producto</label>
+												<textarea name="producto" id="producto" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li> <input type="submit" name="Enviar" value="Enviar mensaje" class="primary" /></li>
+											<li> <input type="reset" name="Borrar" value="Borrar todo" /></li>
+										</ul>
+									</form>
+						</section>
+						<section class="split">
+							<section>
+								<div class="contact-method">
+									<span class="icon solid alt fa-envelope"></span>
+									<h3>Email</h3>
+									<a href="#">Nuestro E-mail</a>
+								</div>
+							</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Telefono</h3>
+										<span>(000) 000-0000 x12387</span>
 									</div>
 								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Address</h3>
+										<span>Paraguay 1950<br />
+										Universidad Austral, Rosario, Santa Fe<br />
+										Argentina</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
 
 				<!-- Footer -->
 				<footer id="footer">
