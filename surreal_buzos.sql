@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="js/vendor/codemirror/lib/codemirror.css?v=5.1.3">
     <link rel="stylesheet" type="text/css" href="js/vendor/codemirror/addon/hint/show-hint.css?v=5.1.3">
     <link rel="stylesheet" type="text/css" href="js/vendor/codemirror/addon/lint/lint.css?v=5.1.3">
-    <link rel="stylesheet" type="text/css" href="./themes/pmahomme/css/theme.css?v=5.1.3&nocache=3968694334ltr&server=1">
+    <link rel="stylesheet" type="text/css" href="./themes/pmahomme/css/theme.css?v=5.1.3&nocache=2924566968ltr&server=1">
     <link rel="stylesheet" type="text/css" href="./themes/pmahomme/css/printview.css?v=5.1.3" media="print" id="printcss">
     <title>localhost / 127.0.0.1 | phpMyAdmin 5.1.3</title>
     <script data-cfasync="false" type="text/javascript" src="js/vendor/jquery/jquery.min.js?v=5.1.3"></script>
@@ -56,7 +56,7 @@
 
 <script data-cfasync="false" type="text/javascript">
 // <![CDATA[
-CommonParams.setAll({common_query:"",opendb_url:"index.php?route=/database/structure",lang:"es",server:"1",table:"",db:"",token:"723430285c5f3e34662c7e4159593a42",text_dir:"ltr",show_databases_navigation_as_tree:true,pma_text_default_tab:"Examinar",pma_text_left_default_tab:"Estructura",pma_text_left_default_tab2:false,LimitChars:"50",pftext:"P",confirm:true,LoginCookieValidity:"1440",session_gc_maxlifetime:"1440",logged_in:true,is_https:false,rootPath:"/phpmyadmin/",arg_separator:"&",PMA_VERSION:"5.1.3",auth_type:"config",user:"root"});
+CommonParams.setAll({common_query:"",opendb_url:"index.php?route=/database/structure",lang:"es",server:"1",table:"",db:"",token:"247040603b455b687d7e5d64567b5557",text_dir:"ltr",show_databases_navigation_as_tree:true,pma_text_default_tab:"Examinar",pma_text_left_default_tab:"Estructura",pma_text_left_default_tab2:false,LimitChars:"50",pftext:"P",confirm:true,LoginCookieValidity:"1440",session_gc_maxlifetime:"1440",logged_in:true,is_https:false,rootPath:"/phpmyadmin/",arg_separator:"&",PMA_VERSION:"5.1.3",auth_type:"config",user:"root"});
 var firstDayOfCalendar = '0';
 var themeImagePath = '.\/themes\/pmahomme\/img\/';
 var mysqlDocTemplate = '.\/url.php\u003Furl\u003Dhttps\u00253A\u00252F\u00252Fdev.mysql.com\u00252Fdoc\u00252Frefman\u00252F8.0\u00252Fen\u00252F\u002525s.html';
@@ -260,7 +260,7 @@ $(function() {
       </div>
       <div id="pma_navigation_tree" class="list_container synced highlight autoexpand">
 
-  <div class="pma_quick_warp"><div class="drop_list"><button title="Tablas recientes" class="drop_button btn">Reciente</button><ul id="pma_recent_list"><li class="warp_link"><a href="index.php?route=/table/recent-favorite&db=surreal_buzos&table=datosclientes">`surreal_buzos`.`datosclientes`</a></li></ul></div><div class="drop_list"><button title="Tablas favoritas" class="drop_button btn">Favoritas</button><ul id="pma_favorite_list"><li class="warp_link">No existen tablas favoritas.</li></ul></div><div class="clearfloat"></div></div>
+  <div class="pma_quick_warp"><div class="drop_list"><button title="Tablas recientes" class="drop_button btn">Reciente</button><ul id="pma_recent_list"><li class="warp_link">No existen tablas recientes.</li></ul></div><div class="drop_list"><button title="Tablas favoritas" class="drop_button btn">Favoritas</button><ul id="pma_favorite_list"><li class="warp_link">No existen tablas favoritas.</li></ul></div><div class="clearfloat"></div></div>
 
 <div class="clearfloat"></div>
 
@@ -284,7 +284,7 @@ $(function() {
                   <div id="pma_navigation_settings"><div class="page_settings"><form method="post" action="index.php&#x3F;route&#x3D;&#x25;2Fexport&amp;server&#x3D;1" class="config-form disableAjax">
   <input type="hidden" name="tab_hash" value="">
       <input type="hidden" name="check_page_refresh" id="check_page_refresh" value="">
-    <input type="hidden" name="token" value="723430285c5f3e34662c7e4159593a42">
+    <input type="hidden" name="token" value="247040603b455b687d7e5d64567b5557">
   <input type="hidden" name="submit_save" value="Navi">
 <ul class="tabs responsivetable row">
       <li><a href="#Navi_panel">Panel de navegación</a></li>
@@ -425,7 +425,7 @@ $.extend(defaultValues, {
   
   <div id="prefs_autoload" class="alert alert-primary print_ignore hide" role="alert">
     <form action="index.php?route=/preferences/manage" method="post" class="disableAjax">
-        <input type="hidden" name="token" value="723430285c5f3e34662c7e4159593a42">
+        <input type="hidden" name="token" value="247040603b455b687d7e5d64567b5557">
         <input type="hidden" name="json" value="">
         <input type="hidden" name="submit_import" value="1">
         <input type="hidden" name="return_url" value="index.php?route=%2Fexport">
