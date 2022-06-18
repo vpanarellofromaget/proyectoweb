@@ -25,13 +25,13 @@
     }
 } */
 
+$ID= $_POST['ID'];
 $Nombre=$_POST['Nombre'];
 $Mail=$_POST['Mail'];
 $Producto=$_POST['Producto'];
 
-
-   $query= "INSERT INTO clientes(Nombre, Mail, Producto)
-             VALUES('$Nombre', '$Mail', '$Producto')";
+   $query= "INSERT INTO datosclientes(ID, Nombre, Mail, Producto)
+             VALUES('$ID', '$Nombre', '$Mail', '$Producto')";
 
 
    $ejecutar = mysqli_query($conex, $query);
@@ -40,14 +40,14 @@ $Producto=$_POST['Producto'];
        echo '
        <script>
            alert("Compra hecha exitosamente");
-           window.location= "index.php";
+           window.location= "../index.php";
        </script>
 
        ';
    } else { '
        <script>
            alert("Intentalo de nuevo, compra no registrada");
-           window.location= "index.php";
+           window.location= "../index.php";
        </script>
      
        ';
