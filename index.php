@@ -43,7 +43,7 @@
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
-								<h1>Nombre de pagina</h1>
+								<h1>Surreal</h1>
 							</header>
 							<div class="content">
 								<p>info de la pag<br />
