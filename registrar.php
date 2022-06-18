@@ -25,12 +25,13 @@
     }
 } */
 
-$nombre= $_POST['nombre'];
-$correo=$_POST['email'];
-$producto=$_POST['producto'];
+$ID= $_POST['ID'];
+$Nombre=$_POST['Nombre'];
+$Mail=$_POST['Mail']
+$Producto=$_POST['Producto'];
 
-   $query= "INSERT INTO datosclientes(nombre, email, producto)
-             VALUES('$nombre', '$email', '$producto')";
+   $query= "INSERT INTO clientes(ID, Nombre, Mail, Producto)
+             VALUES('$ID', '$Nombre', '$Mail', '$Producto')";
 
 
    $ejecutar = mysqli_query($conex, $query);

@@ -112,16 +112,16 @@
 					<form action="registrar.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
-								<label for="name">Nombre y apellido</label>
+								<label for="name">Nombre</label>
 								<input type="text" name="name" id="name" />
 							</div>
 							<div class="field half">
-								<label for="email">Email</label>
-								<input type="text" name="email" id="email" />
+								<label for="Mail">Mail</label>
+								<input type="text" name="Mail" id="Mail" />
 							</div>
 							<div class="field">
-								<label for="message">Mensaje</label>
-								<textarea name="message" id="message" rows="6"></textarea>
+								<label for="Producto">Producto</label>
+								<textarea name="Producto" id="Producto" rows="6"></textarea>
 							</div>
 						</div>
 						<ul class="actions">
