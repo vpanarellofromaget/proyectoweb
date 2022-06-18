@@ -62,21 +62,21 @@
 							<form action="registrar.php" method= "POST" class="formulario_compra">
 								<div class="fields">
 									<div class="field half">
-										<label for="nombre">Nombre y apellido</label>
-										<input type="text" name="nombre" id="nombre" />
+										<label for="Nombre">Nombre</label>
+										<input type="text" name="Nombre" id="Nombre" />
 									</div>
 									<div class="field half">
-										<label for="email">Email</label>
-										<input type="email" name="email" id="email" />
+										<label for="Mail">Mail</label>
+										<input type="text" name="Mail" id="Mail" />
 									</div>
 									<div class="field">
-										<label for="producto">Producto</label>
-										<textarea name="producto" id="producto" rows="6"></textarea>
+										<label for="Producto">Producto</label>
+										<textarea name="Producto" id="Producto" rows="6"></textarea>
 									</div>
 								</div>
 								<ul class="actions">
-									<li> <input type="submit" name="Enviar" value="Enviar mensaje" class="primary" /></li>
-									<li> <input type="reset" name="Borrar" value="Borrar todo" /></li>
+									<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
+									<li><input type="reset" value="Borrar todo" /></li>
 								</ul>
 							</form>
 						</section>
