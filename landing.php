@@ -60,7 +60,7 @@
 							<section id="two" class="spotlights">
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/p-Jkc0rXIKq_j2A883MyPBPtZPYjMw_cVklH9ztx8Ul6XcYkfU8DgQu9z5Ig7c5LR4nH=s85" alt="buzo mujer 1" data-position="center center" />
+										<img src="images/buzo1.jpg" alt="buzo mujer 1" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -76,7 +76,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/XvF04aMo-gbKhRFc8UZpzzG-pXBn9yXeiSq8Grl90YcOyYVdV0VU56wdsHUzmJXNpxWUuks=s85" alt="buzo hombre 1" data-position="top center" />
+										<img src="images/buzoH1.jpg" alt="buzo hombre 1" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -92,7 +92,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/_Y2kGeweT_5BDTRQLbnd5kJdFohpkkSfe6y23rHYVM3CDvId8qH2y8mSUktF_psWDWlIvQ=s85" alt="buzo mujer 2" data-position="25% 25%" />
+										<img src="images/buzo2.jpg" alt="buzo mujer 2" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -108,7 +108,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/gwiy_oanMKbEyTbU-BhjWdpMz4RXHvJFshJCmVD5EvEtXfuO488Y8-qd_JCNL86tvoaYfg=s85" alt="buzo hombre 2" data-position="top center" />
+										<img src="images/buzoH2.jpg" alt="buzo hombre 2" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -124,7 +124,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/CVdDOR7KCnvgU8vyDcat8bk0zHhkBe_t8M8N4oVqaCRumSkw64J9HcK2GQBfSZ5kWAa-=s85" alt="buzo mujer 3" data-position="25% 25%" />
+										<img src="images/buzo3.jpg" alt="buzo mujer 3" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -140,7 +140,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/jwk1jF3QmQUWi41BGs6OrMfoE5oaUJ1EUqqubisYPNUKWM_TMYXzg2GXmBZuMXyxjR7g=s85" alt="buzo hombre 3" data-position="top center" />
+										<img src="images/buzoH3.jpg" alt="buzo hombre 3" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -156,7 +156,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/yvrZl9X2e33f0zAPyssPrIBmTQFI5h5_uvzV7PZ5H3ubPT7B3FqXtfQw0YjJxROnIAsL=s85" alt="buzo mujer 4" data-position="center center" />
+										<img src="images/buzo4.jpg" alt="buzo mujer 4" data-position="center center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -172,7 +172,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/8sBAVV67Q4gewMh1EgCk_wDcCzYOc9UoAi1fo-HCOgEnQTIGAfoi8ILsxXP9d0f1dsFhUg=s85" alt="buzo hombre 4" data-position="top center" />
+										<img src="images/buzoH4.jpg" alt="buzo hombre 4" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -188,7 +188,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/55mHStLeZB-wygLJnQ-6hpUuAcxt2lv_OeoZ72JRhfYywaYDH4Fj4Qn4OECoN-yNDwgggA=s85" alt="buzo mujer 5" data-position="25% 25%" />
+										<img src="images/buzo5.jpg" alt="buzo mujer 5" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -204,7 +204,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/rOoYyH7bzN1HJjTR56Fpl8uHDYsCZg1zhGsFNAbFAIGDM4J08KB2YGYjyf53ePDe5C3gHw=s85" alt="buzo hombre 5" data-position="top center" />
+										<img src="images/buzoH5.jpg" alt="buzo hombre 5" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -220,7 +220,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/QZl9119lhiRWHCCQesrH1VMP63I8OksaA1VuJLxRrsMbl0gmyLWY6gYD8PZyufWK_MS1=s85" alt="buzo mujer 6" data-position="25% 25%" />
+										<img src="images/buzo6.jpg" alt="buzo mujer 6" data-position="25% 25%" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -236,7 +236,7 @@
 								</section>
 								<section>
 									<a class="image">
-										<img src="https://lh3.googleusercontent.com/Fp9wT3ogD_V6HBxwXWaylvNQ-09kjCWPg3uzzRBYOWo2P2X-CNS3mghnsRqDYbYPD8V-tA=s85" alt="buzo hombre 6" data-position="top center" />
+										<img src="images/buzoH6.jpg" alt="buzo hombre 6" data-position="top center" />
 									</a>
 									<div class="content">
 										<div class="inner">
@@ -260,16 +260,16 @@
 										<form action="registrar.php" method= "POST" class="formulario_compra">
 											<div class="fields">
 												<div class="field half">
-													<label for="name">Nombre y apellido</label>
-													<input type="text" name="name" id="name" />
+													<label for="Nombre">Nombre</label>
+													<input type="text" name="Nombre" id="Nombre" />
 												</div>
 												<div class="field half">
-													<label for="email">Email</label>
-													<input type="text" name="email" id="email" />
+													<label for="Mail">Mail</label>
+													<input type="text" name="Mail" id="Mail" />
 												</div>
 												<div class="field">
-													<label for="message">Mensaje</label>
-													<textarea name="message" id="message" rows="6"></textarea>
+													<label for="Producto">Producto</label>
+													<textarea name="Producto" id="Producto" rows="6"></textarea>
 												</div>
 											</div>
 											<ul class="actions">

@@ -48,7 +48,7 @@
 									<header class="major">
 										<h1>Sobre Nosotros</h1>
 									</header>
-									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+									<span class="image main"><img src="images/fotonuestra.jpg" alt="" /></span>
 									<h2> Surreal Buzos </h2>
 									<p> Somos un grupo de personas expermientados en negocios y programacion. Nos reunimos para crear este emprendimiento para ofrecerles una gran variedad de buzos, con excelente calidad y precios accesibles para todas las familias.<br> Apuntamos a ser la empresa numero 1 en ventas de buzos de la provincia de Santa Fe.</p>
 							</section>
@@ -62,16 +62,16 @@
 					<form action="registrar.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
-								<label for="name">Nombre y apellido</label>
-								<input type="text" name="name" id="name" />
+								<label for="Nombre">Nombre</label>
+								<input type="text" name="Nombre" id="Nombre" />
 							</div>
 							<div class="field half">
-								<label for="email">Email</label>
-								<input type="text" name="email" id="email" />
+								<label for="Mail">Mail</label>
+								<input type="text" name="Mail" id="Mail" />
 							</div>
 							<div class="field">
-								<label for="message">Mensaje</label>
-								<textarea name="message" id="message" rows="6"></textarea>
+								<label for="Producto">Producto</label>
+								<textarea name="Producto" id="Producto" rows="6"></textarea>
 							</div>
 						</div>
 						<ul class="actions">
