@@ -39,22 +39,6 @@
 						</ul>
 					</nav>
 
-				<!-- Banner -->
-					<section id="banner" class="major">
-						<div class="inner">
-							<header class="major">
-								<h1>Surreal</h1>
-							</header>
-							<div class="content">
-								<p>info de la pag<br />
-								mas info de la pag</p>
-								<ul class="actions">
-									<li><a href="#one" class="button next scrolly">Contactanos</a></li>
-								</ul>
-							</div>
-						</div>
-					</section>
-
 				<!-- Contact -->
 				<section id="contact">
 					<div class="inner">
@@ -85,7 +69,7 @@
 								<div class="contact-method">
 									<span class="icon solid alt fa-envelope"></span>
 									<h3>Email</h3>
-									<a href="#">Nuestro E-mail</a>
+									<a href="#">surreal@gmail.com</a>
 								</div>
 							</section>
 								<section>
@@ -96,24 +80,7 @@
 									</div>
 								</section>
 								<section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-								
+							
 									<div class="contact-method">
 										<span class="icon solid alt fa-home"></span>
 										<h3>Direccion</h3>
@@ -137,7 +104,7 @@
 								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Design: by Surreal</li>
 							</ul>
 						</div>
 					</footer>
