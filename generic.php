@@ -85,7 +85,7 @@
 						<div class="contact-method">
 							<span class="icon solid alt fa-envelope"></span>
 							<h3>Email</h3>
-							<a href="#">nuestro mail</a>
+							<a href="#">surreal@gmail.com</a>
 						</div>
 					</section>
 						<section>
@@ -119,7 +119,7 @@
 						<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Design: by Surreal</li>
 					</ul>
 				</div>
 			</footer>
