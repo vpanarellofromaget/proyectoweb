@@ -45,7 +45,7 @@
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
-								<img src="c://xampp//htdocs//proyectofinal//images//general.jpg" alt="foto general" />
+								<img src="images/general.jpg" alt="foto general" />
 							</span>
 							<header class="major">
 								<h1>Catalogo general</h1>

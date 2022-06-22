@@ -62,7 +62,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="https://lh3.googleusercontent.com/xb-dfEYhc0L1tuQrOery6IW6XKQPU0OZkc6-iK-rrFOGAOlNzdagFZYuSJxHn0i5qfQS=s110" alt="" />
+										<img src="images/buzohombreindice.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.php" class="link">Hombres</a></h3>
@@ -71,7 +71,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="https://lh3.googleusercontent.com/t9fuQ8SOzdkiyrFMBWyVOLev2aUP0cfNcOgX6m0p8uHmSti1B3bQBAyPcwOijl7waCY8=s119" alt="" />
+										<img src="images/buzomujerindice.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.php" class="link">Mujeres</a></h3>
@@ -80,7 +80,7 @@
 								</article>
 								<article>
 									<span class="image">
-										<img src="https://lh3.googleusercontent.com/AYLhKHXzfDcehIg81pcNHPK9RTwp0SNAqr_iriylGfRIi89BL5eHmjKHZ5kBObdGsH1zgg=s115" alt="" />
+										<img src="images/generalindice.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.php" class="link">Todo</a></h3>

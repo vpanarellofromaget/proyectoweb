@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>Surreal</strong> <span>Buzos</span></a>
+						<a href="index.php" class="logo"><strong>Surreal</strong> <span>Buzos</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -28,10 +28,10 @@
 				<!-- Menu -->
 					<nav id="menu">
 						<ul class="links">
-							<li><a href="index.html">Inicio</a></li>
-							<li><a href="landing.html">Catalogo</a></li>
-							<li><a href="generic.html">Informacion</a></li>
-							<li><a href="elements.html">Contacto</a></li>
+							<li><a href="index.php">Inicio</a></li>
+							<li><a href="landing.php">Catalogo</a></li>
+							<li><a href="generic.php">Informacion</a></li>
+							<li><a href="elements.php">Contacto</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">Crear cuenta</a></li>
