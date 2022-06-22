@@ -158,6 +158,23 @@
 				</div>
 			</section>
 
+			<section id="contact">
+			<div class="inner">
+				<section>
+					<form action="eliminar.php" method= "POST" class="formulario_eliminar">
+						<div class="field half">
+								<label for="Mail">Mail</label>
+								<input type="text" name="Mail" id="Mail" />
+						</div>
+						<ul class="actions">
+								<li><input type="submit" value="Dar de baja la compra" class="primary" /></li>
+								<li><input type="reset" value="Borrar todo" /></li>
+						</ul>
+					</form>
+				</section>
+				
+			</section>
+
 				<!-- Footer -->
 					<footer id="footer">
 						<div class="inner">
@@ -169,7 +186,7 @@
 								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Austral</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Austral</li><li>Design: Surreal </a></li>
 							</ul>
 						</div>
 					</footer>
