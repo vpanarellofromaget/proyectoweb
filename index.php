@@ -112,8 +112,8 @@
 					<form action="registrar.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
-								<label for="Nombre">Nombre</label>
-								<input type="text" name="Nombre" id="Nombre" />
+								<label for="name">Nombre</label>
+								<input type="text" name="name" id="name" />
 							</div>
 							<div class="field half">
 								<label for="Mail">Mail</label>

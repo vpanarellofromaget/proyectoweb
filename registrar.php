@@ -29,7 +29,6 @@ $Nombre=$_POST['Nombre'];
 $Mail=$_POST['Mail'];
 $Producto=$_POST['Producto'];
 
-
    $query= "INSERT INTO clientes(Nombre, Mail, Producto)
              VALUES('$Nombre', '$Mail', '$Producto')";
 
