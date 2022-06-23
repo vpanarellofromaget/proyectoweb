@@ -252,60 +252,6 @@
 								</section>
 							</section>
 						
-						
-						<!-- Contact -->
-							<section id="contact">
-								<div class="inner">
-									<section>
-										<form action="registrar.php" method= "POST" class="formulario_compra">
-											<div class="fields">
-												<div class="field half">
-													<label for="Nombre">Nombre</label>
-													<input type="text" name="Nombre" id="Nombre" />
-												</div>
-												<div class="field half">
-													<label for="Mail">Mail</label>
-													<input type="text" name="Mail" id="Mail" />
-												</div>
-												<div class="field">
-													<label for="Producto">Producto</label>
-													<textarea name="Producto" id="Producto" rows="6"></textarea>
-												</div>
-											</div>
-											<ul class="actions">
-												<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
-												<li><input type="reset" value="Borrar todo" /></li>
-											</ul>
-										</form>
-									</section>
-									<section class="split">
-										<section>
-											<div class="contact-method">
-												<span class="icon solid alt fa-envelope"></span>
-												<h3>Email</h3>
-												<a href="#">nuestro mail</a>
-											</div>
-										</section>
-											<section>
-												<div class="contact-method">
-													<span class="icon solid alt fa-phone"></span>
-													<h3>Telefono</h3>
-													<span>0341 522-3000</span>
-												</div>
-											</section>
-											<section>
-												<div class="contact-method">
-													<span class="icon solid alt fa-home"></span>
-													<h3>Direccion</h3>
-													<span>Paraguay 1950<br />
-													Universidad Austral, Rosario, Santa Fe<br />
-													Argentina</span>
-												</div>
-											</section>
-										</section>
-									</div>
-								</section>
-
 				<!-- Footer -->
 				<footer id="footer">
 					<div class="inner">
@@ -317,7 +263,7 @@
 							<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 						</ul>
 						<ul class="copyright">
-							<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							<li>&copy; Design: by Surreal </li>
 						</ul>
 					</div>
 				</footer>
