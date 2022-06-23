@@ -2,16 +2,34 @@
 
 include("con_db.php");
 
-$Mail = $_POST['Mail'];
-// $conex = mysqli_connect("localhost", "root","","surrealbuzos");
-$sql = "DELETE FROM clientes where Mail = $Mail";
-$rta = mysqli_query($conex,$sql);
+$Mail=$_POST['Mail'];
 
-if(!$rta){
-    echo"No se Elimino!";
+if ($conex->connect_error) {
+    die("Connection failed: " . $conex->connect_error);
 }
-else{
-    header("Location:index.php");
+
+$sql = "DELETE FROM clientes WHERE Mail='$Mail'";
+
+
+$ejecutar = mysqli_query($conex, $sql);
+
+if($ejecutar) {
+    echo '
+    <script>
+        alert("Compra borrada exitosamente");
+        window.location= "index.php";
+    </script>
+
+    ';
+} else { '
+    <script>
+        alert("Intentalo de nuevo, compra no registrada");
+        window.location= "index.php";
+    </script>
+  
+    ';
 }
+
+mysqli_close($conex);
 
 ?>
