@@ -166,13 +166,13 @@
 								<label for="Mail">Mail</label>
 								<input type="text" name="Mail" id="Mail" />
 						</div>
+						<br>
 						<ul class="actions">
 								<li><input type="submit" value="Dar de baja la compra" class="primary" /></li>
 								<li><input type="reset" value="Borrar todo" /></li>
 						</ul>
 					</form>
 				</section>
-				
 			</section>
 
 				<!-- Footer -->
