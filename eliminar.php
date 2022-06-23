@@ -23,7 +23,7 @@ if($ejecutar) {
     ';
 } else { '
     <script>
-        alert("Intentalo de nuevo, compra no registrada");
+        alert("Intentalo de nuevo, la compra no fue dada de baja");
         window.location= "index.php";
     </script>
   
