@@ -28,7 +28,7 @@
 					<br>
 					<br>
 					<ul class="actionsbaja" >
-							<li><a href="#contact2" class="button next scrolly">Dar de baja la compra</a>class="primary"</li>
+							<li><a href="#contact2" class="button next scrolly">Dar de baja la compra</a></li>
 					</ul>
 
 				<!-- Menu -->
