@@ -50,7 +50,7 @@
 									</header>
 									<span class="image main"><img src="images/fotonuestra.jpg" alt="" /></span>
 									<h2> Surreal Buzos </h2>
-									<p> Somos un grupo de personas expermientados en negocios y programacion. Nos reunimos para crear este emprendimiento para ofrecerles una gran variedad de buzos, con excelente calidad y precios accesibles para todas las familias.<br> Apuntamos a ser la empresa numero 1 en ventas de buzos de la provincia de Santa Fe.</p>
+									<p> Somos un grupo de personas apasionados por la moda. Creamos Surreal para ofrecerles una gran variedad de buzos, con excelente calidad y precios accesibles para todas las familias.<br> Apuntamos a ser la empresa numero 1 en ventas de buzos de la provincia de Santa Fe.</p>
 							</section>
 
 					</div>
@@ -106,6 +106,22 @@
 						</section>
 					</section>
 				</div>
+			</section>
+			<section id="contact">
+			<div class="inner">
+				<section>
+					<form action="eliminar.php" method= "POST" class="formulario_eliminar">
+						<div class="field half">
+								<label for="Mail">Mail</label>
+								<input type="text" name="Mail" id="Mail" />
+						</div>
+						<br>
+						<ul class="actions">
+								<li><input type="submit" value="Dar de baja la compra" class="primary" /></li>
+								<li><input type="reset" value="Borrar todo" /></li>
+						</ul>
+					</form>
+				</section>
 			</section>
 
 		<!-- Footer -->

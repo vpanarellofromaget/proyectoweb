@@ -24,6 +24,12 @@
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
+				<!-- Main -->
+					<br>
+					<br>
+					<ul class="actionsbaja" >
+							<li><a href="#contact2" class="button next scrolly">Dar de baja la compra</a>class="primary"</li>
+					</ul>
 
 				<!-- Menu -->
 					<nav id="menu">
@@ -76,7 +82,7 @@
 									<div class="contact-method">
 										<span class="icon solid alt fa-phone"></span>
 										<h3>Telefono</h3>
-										<span>(000) 000-0000 x12387</span>
+										<span>0341 522-3000</span>
 									</div>
 								</section>
 								<section>
@@ -91,6 +97,22 @@
 								</section>
 							</section>
 						</div>
+					</section>
+					<section id="contact2">
+						<div class="inner">
+							<section>
+								<form action="eliminar.php" method= "POST" class="formulario_eliminar">
+									<div class="field half">
+											<label for="Mail">Mail</label>
+											<input type="text" name="Mail" id="Mail" />
+									</div>
+									<br>
+									<ul class="actions">
+											<li><input type="submit" value="Dar de baja la compra" class="primary" /></li>
+											<li><input type="reset" value="Borrar todo" /></li>
+									</ul>
+								</form>
+							</section>
 					</section>
 
 				<!-- Footer -->
