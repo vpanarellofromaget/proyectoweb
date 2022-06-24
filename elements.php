@@ -57,7 +57,7 @@
 									</div>
 									<div class="field half">
 										<label for="Mail">Mail</label>
-										<input type="text" name="Mail" id="Mail" />
+										<input required type="email" name="Mail" id="Mail" />
 									</div>
 									<div class="field">
 										<label for="Producto">Producto</label>
@@ -82,7 +82,7 @@
 									<div class="contact-method">
 										<span class="icon solid alt fa-phone"></span>
 										<h3>Telefono</h3>
-										<span>0341 522-3000</span>
+										<span>(000) 000-0000 x12387</span>
 									</div>
 								</section>
 								<section>
@@ -104,7 +104,7 @@
 								<form action="eliminar.php" method= "POST" class="formulario_eliminar">
 									<div class="field half">
 											<label for="Mail">Mail</label>
-											<input type="text" name="Mail" id="Mail" />
+											<input required type="email" name="Mail" id="Mail" />
 									</div>
 									<br>
 									<ul class="actions">
