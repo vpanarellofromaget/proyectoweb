@@ -46,8 +46,7 @@
 								<h1>Surreal</h1>
 							</header>
 							<div class="content">
-								<p>info de la pag<br />
-								mas info de la pag</p>
+		
 								<ul class="actions">
 									<li><a href="#one" class="button next scrolly">Ver catalogo</a></li>
 								</ul>
@@ -96,7 +95,6 @@
 									<header class="major">
 										<h2>Breve descripcion</h2>
 									</header>
-									<p>Mision, vision y valores</p>
 									<ul class="actions">
 										<li><a href="generic.php" class="button next">Sobre nosotros</a></li>
 									</ul>
@@ -135,7 +133,7 @@
 						<div class="contact-method">
 							<span class="icon solid alt fa-envelope"></span>
 							<h3>Email</h3>
-							<a href="#">nuestro mail</a>
+							<a href="#">surreal@gmail.com</a>
 						</div>
 					</section>
 						<section>
@@ -186,7 +184,7 @@
 								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Austral</li><li>Design: Surreal </a></li>
+								<li>&copy; Design: by Surreal</li>
 							</ul>
 						</div>
 					</footer>

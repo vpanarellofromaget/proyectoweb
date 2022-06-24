@@ -28,7 +28,7 @@
 					<br>
 					<br>
 					<ul class="actionsbaja" >
-							<li><a href="#contact2" class="button next scrolly">Dar de baja la compra</a></li>
+							<li><a href="#contact2" class="button next scrolly">Dar de baja la compra</a>class="primary"</li>
 					</ul>
 
 				<!-- Menu -->
@@ -82,7 +82,7 @@
 									<div class="contact-method">
 										<span class="icon solid alt fa-phone"></span>
 										<h3>Telefono</h3>
-										<span>(000) 000-0000 x12387</span>
+										<span>0341 522-3000</span>
 									</div>
 								</section>
 								<section>
