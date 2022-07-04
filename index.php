@@ -62,7 +62,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="images/buzohombreindice.jpg" alt="" />
+										<img src="images/buzohombreindice.jpg" alt="buzohombre" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.php" class="link">Hombres</a></h3>
