@@ -112,8 +112,8 @@
 					<form action="registrar.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
-								<label for="name">Nombre</label>
-								<input type="text" name="name" id="name" />
+								<label for="Nombre">Nombre</label>
+								<input type="text" name="Nombre" id="Nombre" />
 							</div>
 							<div class="field half">
 								<label for="Mail">Mail</label>
@@ -123,6 +123,7 @@
 								<label for="Producto">Producto</label>
 								<textarea name="Producto" id="Producto" rows="6"></textarea>
 							</div>
+							<input type="hidden" name="ID" value="ID"> 
 						</div>
 						<ul class="actions">
 							<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
@@ -174,6 +175,31 @@
 					</form>
 				</section>
 			</section>
+			<section>
+					<form action="editar.php" method= "POST" class="formulario_editar">
+						<div class="fields">	
+							<div class="field half">
+								<input type="text" value="<?$_POST['ID']?>" name="idForm">
+							</div>
+							<div class="field half">
+								<label for="Nombre">Nombre</label>
+								<input type="text" name="Nombre" id="Nombre" />
+							</div>
+							<div class="field half">
+								<label for="Mail">Mail</label>
+								<input required type="email" name="Mail" id="Mail" />
+							</div>
+							<div class="field">
+								<label for="Producto">Producto</label>
+								<textarea name="Producto" id="Producto" rows="6"></textarea>
+							</div>
+						</div>
+						<ul class="actions">
+							<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
+							<li><input type="reset" value="Borrar todo" /></li>
+						</ul>
+					</form>
+				</section>
 
 				<!-- Footer -->
 					<footer id="footer">
