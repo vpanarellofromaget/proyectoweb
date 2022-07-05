@@ -1,15 +1,13 @@
 <?php
 
 include("con_db.php");
-$ID=$_POST['ID'];
-
 $Nombre=$_POST['Nombre'];
 $Mail=$_POST['Mail'];
 $Producto=$_POST['Producto'];
 
 
 
-$sql = "UPDATE clientes SET Producto='$Producto' WHERE ID='$ID'";
+$sql = "UPDATE clientes SET Producto='$Producto' WHERE Mail='$Mail'";
 
 $ejecutar = mysqli_query($conex, $sql);
 
