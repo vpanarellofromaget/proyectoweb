@@ -1817,6 +1817,8 @@ input, select, textarea {
 
 /* Form */
 
+
+
 	form {
 		margin: 0 0 2em 0;
 	}
@@ -1851,8 +1853,20 @@ input, select, textarea {
 				width: calc(100% - 1.5em);
 			}
 
+
+			h4 {
+				background: linear-gradient(to bottom, #404040, #383f68);
+				border:solid 1px black;
+				text-align: center;
+				color: #bfbfbf;
+				font-size: 30px;
+
+			}
+
+
 				form > .fields > .field.half {
 					width: calc(50% - 0.75em);
+
 				}
 
 				form > .fields > .field.third {
@@ -1861,6 +1875,7 @@ input, select, textarea {
 
 				form > .fields > .field.quarter {
 					width: calc(25% - 0.375em);
+
 				}
 
 		@media screen and (max-width: 480px) {
@@ -1868,6 +1883,7 @@ input, select, textarea {
 			form > .fields {
 				width: calc(100% + 3em);
 				margin: -1.5em 0 2em -1.5em;
+
 			}
 
 				form > .fields > .field {
@@ -1892,11 +1908,13 @@ input, select, textarea {
 	label {
 		color: #ffffff;
 		display: block;
-		font-size: 0.8em;
+		font-size: 0.9em;
 		font-weight: 600;
 		letter-spacing: 0.25em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
+		border-bottom: solid 3px black;
+
 	}
 
 	input[type="text"],
@@ -1987,11 +2005,11 @@ input, select, textarea {
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
-		appearance: none;
+		appearance: checkbox;
 		display: block;
 		float: left;
 		margin-right: -2em;
-		opacity: 0;
+		opacity: 1;
 		width: 1em;
 		z-index: -1;
 	}
@@ -2677,6 +2695,7 @@ input, select, textarea {
 			background-color: #ffffff;
 			box-shadow: none;
 			color: #242943;
+
 		}
 
 			input[type="submit"].primary:hover, input[type="submit"].primary:active,
@@ -2689,6 +2708,7 @@ input, select, textarea {
 			.button.primary:hover,
 			.button.primary:active {
 				background-color: #9bf1ff;
+				font-size: 85%;
 				color: #242943 !important;
 			}
 
@@ -2698,6 +2718,7 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:active {
 				background-color: #53e3fb;
+
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
