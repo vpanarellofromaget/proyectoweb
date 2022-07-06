@@ -110,7 +110,7 @@
 			<div class="inner">
 				<section>
 					<h4>REALIZAR UNA COMPRA</h4>
-					<form action="registrar.php" method= "POST" class="formulario_compra">
+					<form action="todo.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
 								<label for="Nombre">Nombre</label>
@@ -123,6 +123,10 @@
 							<div class="field">
 								<label for="Producto">Producto</label>
 								<textarea name="Producto" id="Producto" rows="6"></textarea>
+							</div>
+							<div class="field">
+                				<label for="deleteOrder">¿Desea Cancelar la orden?</label>
+                    			<input type="checkbox" name="deleteOrder" value="1">
 							</div>
 						</div>
 						<ul class="actions">
