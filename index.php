@@ -46,8 +46,8 @@
 								<h1>Surreal</h1>
 							</header>
 							<div class="content">
-								<p>Venta de buzos<br />
-								Numero 1 en Santa Fe</p>
+								<p>info de la pag<br />
+								mas info de la pag</p>
 								<ul class="actions">
 									<li><a href="#one" class="button next scrolly">Ver catalogo</a></li>
 								</ul>
@@ -62,7 +62,7 @@
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
-										<img src="images/buzohombreindice.jpg" alt="buzohombre" />
+										<img src="images/buzohombreindice.jpg" alt="" />
 									</span>
 									<header class="major">
 										<h3><a href="landing.php" class="link">Hombres</a></h3>
@@ -109,12 +109,11 @@
 		<section id="contact">
 			<div class="inner">
 				<section>
-					<h4>REALIZAR UNA COMPRA</h4>
 					<form action="registrar.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
-								<label for="Nombre">Nombre</label>
-								<input type="text" name="Nombre" id="Nombre" />
+								<label for="name">Nombre</label>
+								<input type="text" name="name" id="name" />
 							</div>
 							<div class="field half">
 								<label for="Mail">Mail</label>
@@ -124,10 +123,6 @@
 								<label for="Producto">Producto</label>
 								<textarea name="Producto" id="Producto" rows="6"></textarea>
 							</div>
-							<div class="field">
-                				<label for="deleteOrder">¿Desea Cancelar la orden?</label>
-                    			<input type="checkbox" name="deleteOrder" value="1">
-							</div>
 						</div>
 						<ul class="actions">
 							<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
@@ -135,8 +130,6 @@
 						</ul>
 					</form>
 				</section>
-
-
 				<section class="split">
 					<section>
 						<div class="contact-method">
@@ -165,37 +158,10 @@
 				</div>
 			</section>
 
-
 			<section id="contact">
 			<div class="inner">
 				<section>
-			<h4>MODIFICAR UNA COMPRA</h4>
-				<form action="editar.php" method= "POST" class="formulario_compra">
-						<div class="fields">
-							<div class="field half">
-								<label for="Nombre">Nombre</label>
-								<input type="text" name="Nombre" id="Nombre" />
-							</div>
-							<div class="field half">
-								<label for="Mail">Mail</label>
-								<input required type="email" name="Mail" id="Mail" />
-							</div>
-							<div class="field">
-								<label for="Producto">Producto</label>
-								<textarea name="Producto" id="Producto" rows="6"></textarea>
-							</div>
-						</div>
-						<ul class="actions">
-							<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
-							<li><input type="reset" value="Borrar todo" /></li>
-						</ul>
-				</form>
-			</section>
-
-
-				<section class="eliminar"> <br><br><br><br><br><br>
-				<h4>DAR DE BAJA UNA COMPRA</h4>
-				<form action="eliminar.php" method= "POST" class="formulario_eliminar">
+					<form action="eliminar.php" method= "POST" class="formulario_eliminar">
 						<div class="field half">
 								<label for="Mail">Mail</label>
 								<input required type="email" name="Mail" id="Mail" />
@@ -205,10 +171,9 @@
 								<li><input type="submit" value="Dar de baja la compra" class="primary" /></li>
 								<li><input type="reset" value="Borrar todo" /></li>
 						</ul>
-				</form>
+					</form>
 				</section>
 			</section>
-
 
 				<!-- Footer -->
 					<footer id="footer">
