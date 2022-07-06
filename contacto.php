@@ -1,4 +1,4 @@
-
+<!DOCTYPE HTML>
 <!--
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Inicio - SurrealBuzos</title>
+		<title>Contacto - SurrealBuzos</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -24,6 +24,7 @@
 							<a href="#menu">Menu</a>
 						</nav>
 					</header>
+				<!-- Main -->
 
 				<!-- Menu -->
 					<nav id="menu">
@@ -38,72 +39,6 @@
 							<li><a href="#" class="button fit">Iniciar sesion</a></li>
 						</ul>
 					</nav>
-
-				<!-- Banner -->
-					<section id="banner" class="major">
-						<div class="inner">
-							<header class="major">
-								<h1>Surreal</h1>
-							</header>
-							<div class="content">
-								<p>Venta de buzos<br />
-								Numero 1 en Santa Fe</p>
-								<ul class="actions">
-									<li><a href="#one" class="button next scrolly">Ver catalogo</a></li>
-								</ul>
-							</div>
-						</div>
-					</section>
-
-				<!-- Main -->
-					<div id="main">
-
-						<!-- One -->
-							<section id="one" class="tiles">
-								<article>
-									<span class="image">
-										<img src="images/buzohombreindice.jpg" alt="buzohombre" />
-									</span>
-									<header class="major">
-										<h3><a href="catalogo.php" class="link">Hombres</a></h3>
-										<p>Descripcion de hombres</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/buzomujerindice.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="catalogo.php" class="link">Mujeres</a></h3>
-										<p>Descripcion de mujeres</p>
-									</header>
-								</article>
-								<article>
-									<span class="image">
-										<img src="images/generalindice.jpg" alt="" />
-									</span>
-									<header class="major">
-										<h3><a href="catalogo.php" class="link">Todo</a></h3>
-										<p>Descripcion de todo</p>
-									</header>
-								</article>
-								
-							</section>
-
-						<!-- Two -->
-							<section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>Breve descripcion</h2>
-									</header>
-									<p>Mision, vision y valores</p>
-									<ul class="actions">
-										<li><a href="informacion.php" class="button next">Sobre nosotros</a></li>
-									</ul>
-								</div>
-							</section>
-
-					</div>
 
 		<!-- Contact -->
 		<section id="contact">
@@ -167,7 +102,7 @@
 					</section>
 				</div>
 			</section>
-			
+
 				<!-- Footer -->
 					<footer id="footer">
 						<div class="inner">
@@ -179,7 +114,7 @@
 								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Austral</li><li>Design: Surreal </a></li>
+								<li>&copy; Design: by Surreal</li>
 							</ul>
 						</div>
 					</footer>
