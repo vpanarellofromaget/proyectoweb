@@ -33,10 +33,10 @@ if ($res = mysqli_query($conex, $sql)) {
  
         ';
     } else{
-        echo "ERROR: Hush! Sorry $sql. ". mysqli_error($conn);
+        echo "ERROR: Uh! Perdon $sql. ". mysqli_error($conex);
     }
 } else {
-    echo "ERROR: Could not able to execute $sql. ".mysqli_error($conn);
+    echo "ERROR: Could not able to execute $sql. ".mysqli_error($conex);
 }
 
 mysqli_close($conex);

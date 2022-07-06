@@ -29,9 +29,9 @@
 				<nav id="menu">
 						<ul class="links">
 							<li><a href="index.php">Inicio</a></li>
-							<li><a href="landing.php">Catalogo</a></li>
-							<li><a href="generic.php">Informacion</a></li>
-							<li><a href="elements.php">Contacto</a></li>
+							<li><a href="catalogo.php">Catalogo</a></li>
+							<li><a href="informacion.php">Informacion</a></li>
+							<li><a href="contacto.php">Contacto</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">Crear cuenta</a></li>
@@ -59,25 +59,35 @@
 		<section id="contact">
 			<div class="inner">
 				<section>
-					<form action="registrar.php" method= "POST" class="formulario_compra">
+					<h4>REALIZAR UNA COMPRA</h4>
+					<form action="abm.php" method= "POST" class="formulario_compra">
 						<div class="fields">
 							<div class="field half">
 								<label for="Nombre">Nombre</label>
-								<input type="text" name="Nombre" id="Nombre" />
+								<input type="text" name="Nombre" id="Nombre" placeholder="Surreal"/>
 							</div>
 							<div class="field half">
 								<label for="Mail">Mail</label>
-								<input required type="email" name="Mail" id="Mail" />
+								<input required type="email" name="Mail" id="Mail" placeholder="surreal@buzos"/>
 							</div>
 							<div class="field">
 								<label for="Producto">Producto</label>
-								<textarea name="Producto" id="Producto" rows="6"></textarea>
+								<textarea name="Producto" id="Producto" rows="6" placeholder="Sinergia"></textarea>
+							</div>
+							<div class="field">
+                				<label for="deleteOrder">¿Desea Cancelar la orden?</label>
+                    			<input type="checkbox" name="deleteOrder" value="1">
 							</div>
 						</div>
 						<ul class="actions">
 							<li><input type="submit" value="Enviar mensaje" class="primary" /></li>
 							<li><input type="reset" value="Borrar todo" /></li>
 						</ul>
+						<div class="field half">
+								<p>
+									* Si desea modificar la compra, ingrese nuevamente el mail y escriba el producto nuevo.
+								</p>
+						</div>
 					</form>
 				</section>
 				<section class="split">
@@ -85,7 +95,7 @@
 						<div class="contact-method">
 							<span class="icon solid alt fa-envelope"></span>
 							<h3>Email</h3>
-							<a href="#">surreal@gmail.com</a>
+							<a href="#">nuestro mail</a>
 						</div>
 					</section>
 						<section>
@@ -107,23 +117,6 @@
 					</section>
 				</div>
 			</section>
-			<section id="contact">
-			<div class="inner">
-				<section>
-					<form action="eliminar.php" method= "POST" class="formulario_eliminar">
-						<div class="field half">
-								<label for="Mail">Mail</label>
-								<input required type="email" name="Mail" id="Mail" />
-						</div>
-						<br>
-						<ul class="actions">
-								<li><input type="submit" value="Dar de baja la compra" class="primary" /></li>
-								<li><input type="reset" value="Borrar todo" /></li>
-						</ul>
-					</form>
-				</section>
-			</section>
-
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="inner">

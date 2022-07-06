@@ -30,9 +30,9 @@
 				<nav id="menu">
 						<ul class="links">
 							<li><a href="index.php">Inicio</a></li>
-							<li><a href="landing.php">Catalogo</a></li>
-							<li><a href="generic.php">Informacion</a></li>
-							<li><a href="elements.php">Contacto</a></li>
+							<li><a href="catalogo.php">Catalogo</a></li>
+							<li><a href="informacion.php">Informacion</a></li>
+							<li><a href="contacto.php">Contacto</a></li>
 						</ul>
 						<ul class="actions stacked">
 							<li><a href="#" class="button primary fit">Crear cuenta</a></li>
@@ -69,7 +69,7 @@
 											</header>
 											<p>$8.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -85,7 +85,7 @@
 											</header>
 											<p>$6.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -101,7 +101,7 @@
 											</header>
 											<p>$6.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -117,7 +117,7 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -133,7 +133,7 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -149,7 +149,7 @@
 											</header>
 											<p>$8.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -165,7 +165,7 @@
 											</header>
 											<p>$6.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -181,7 +181,7 @@
 											</header>
 											<p>$9.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -197,7 +197,7 @@
 											</header>
 											<p>$7.500</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -213,7 +213,7 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -229,7 +229,7 @@
 											</header>
 											<p>$7.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
@@ -245,7 +245,7 @@
 											</header>
 											<p>$9.000</p>
 											<ul class="actions">
-												<li><a href="elements.php" class="button">COMPRAR</a></li>
+												<li><a href="contacto.php" class="button">COMPRAR</a></li>
 											</ul>
 										</div>
 									</div>
