@@ -53,7 +53,7 @@
 							</div>
 							<div class="field half">
 								<label for="Mail">Mail</label>
-								<input required type="email" name="Mail" id="Mail" placeholder="surreal@buzos"/>
+								<input required type="email" name="Mail" id="Mail" placeholder="surreal@gmail.com"/>
 							</div>
 							<div class="field">
 								<label for="Producto">Producto</label>
@@ -80,7 +80,7 @@
 						<div class="contact-method">
 							<span class="icon solid alt fa-envelope"></span>
 							<h3>Email</h3>
-							<a href="#">nuestro mail</a>
+							<a >surreal@gmail.com</a>
 						</div>
 					</section>
 						<section>
@@ -107,11 +107,11 @@
 					<footer id="footer">
 						<div class="inner">
 							<ul class="icons">
-								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; Design: by Surreal</li>
