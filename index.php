@@ -123,8 +123,8 @@
 								<textarea name="Producto" id="Producto" rows="6" placeholder="Sinergia"></textarea>
 							</div>
 							<div class="field">
-                				<label for="deleteOrder">¿Desea Cancelar la orden?</label>
-                    			<input type="checkbox" name="deleteOrder" value="1">
+                				<label for="Estado">¿Desea Cancelar la orden?</label>
+                    			<input type="checkbox" name="Estado" value="Cancelado">
 							</div>
 						</div>
 						<ul class="actions">
